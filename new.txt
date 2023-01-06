@@ -1,2 +1,22 @@
-hi guys
-i am adithyan
+-------------
+GIT COMMANDS
+-------------
+
+1) mkdir - create folder
+2) cd - change directory
+3) git status
+4) git init - initaialize
+5) touch - to create file
+6) git add - to add a file to staging area
+7) git commit -m"<message>" - to save with a message
+8) git log - display commit(versions)
+9) git add <file name with extension> - to add a specific file to staging area	
+10) git checkout -b <branch name> - to create a new branch and use (checkout to change branch)
+11) git branch - show branches
+12) git merge <branch name> - to merge newbranch with master branch
+13) git branch <version code> - to change to prev version
+14) git remote add origin main <repository url>
+15) git branch -M main
+16) git push -u branch <branch name>
+17) git pull <url>
+18) git clone <url>
