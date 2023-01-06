@@ -3,3 +3,4 @@ its a good club
 there is a git session
 it really cool and fun
 from second machine
+commit from alex via forking
